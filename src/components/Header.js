@@ -32,7 +32,7 @@ const Header = () => {
                 {" "}
                 {data.headerTagline[2]
                   ? data.headerTagline[2]
-                  : "and experience"}
+                  : ""}
               </h1>
             </div>
           </Fade>
