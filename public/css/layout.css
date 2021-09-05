@@ -297,8 +297,8 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li {
    position: relative;
-  	margin-bottom: 60px;
-  	background: #ccc;
+  	margin-bottom: 30px;
+  	/* background: #ccc; */
   	height: 42px;
   	border-radius: 3px;
 }

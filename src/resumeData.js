@@ -1,63 +1,68 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"",
+    "name": "Haley Parish",
+    "role": "full stack web developer and graphic desginer",
+    "linkedinId":"https://www.linkedin.com/in/haley-parish-4b671b208/",
+    "roleDescription": " I am a recent UC Davis College of Letters and Science (BA) and full stack bootcamp graduate. I specialize in the MERN stack, and have additional skills in photoshop and writing.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/haley-parish-4b671b208/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/heparish",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+        // {
+        //   "name":"skype",
+        //   "url":"http://twitter.com/rbhatia46",
+        //   "className":"fa fa-twitter"
+        // }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":" I am a recent graduate looking to launch my career in web development. I am eager to learn more programing langues and frameworks and start working on real life projects. When I am not at my computer reading documentation I can be found playing video games, reading, or painting.",
+    "address":"Redding California",
+    "website":"https://github.com/heparish",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of California, Davis - Extension Campus",
+        "specialization":"Full Stack Web Development certifcate",
+        "MonthOfPassing":"September 15th,",
+        "YearOfPassing":"2021",
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of California, Davis",
+        "specialization":"Bachelor of Arts in Sociology, emphasis in Law and Society",
+        "MonthOfPassing":"September",
+        "YearOfPassing":"2019",
+        "Achievements":"Published in schools sociological journal. Interned at the Anthropology Center." ,
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Freelance Graphic Desgin",
+        "specialization":"Freelance",
+        "MonthOfLeaving":"Current",
+        "YearOfLeaving":"",
+        "Achievements":"Work featured on dozens of t-shirts"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+        "CompanyName":"Haleys Pet Services ",
+        "specialization":"Pet/House sitting, Dog Walking",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2020",
+        "Achievements":"Founded my own company. Managed a dozen or so clients all on my own."
+      },
+      {
+        "CompanyName":"Healthy Spot",
+        "specialization":"Certifed Keyholder",
+        "MonthOfLeaving":"Novemeber",
+        "YearOfLeaving":"2019",
+        "Achievements":"Had all the roles of an assistant manager for a small store."
+      },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,8 +71,30 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
+        "skillname":"MongoDB"
+      },
+      {
         "skillname":"Reactjs"
-      }
+      },
+    
+      {
+        "skillname":"Express"
+      },
+      {
+        "skillname":"NodeJS"
+      },
+      {
+        "skillname":"photoshop"
+      },
+      {
+        "skillname":"jquery"
+      },
+      {
+        "skillname":"Handlebars"
+      },
+      {
+        "skillname":"bulma & bootstrap"
+      },
     ],
     "portfolio":[
       {
@@ -91,16 +118,16 @@ let resumeData = {
         "imgurl":"images/portfolio/phone.jpg"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
+    // "testimonials":[
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   },
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   }
+    // ]
   }
   
   export default resumeData
