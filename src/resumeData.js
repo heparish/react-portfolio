@@ -15,11 +15,11 @@ let resumeData = {
           "url":"https://github.com/heparish",
           "className":"fa fa-github"
         },
-        // {
-        //   "name":"skype",
-        //   "url":"http://twitter.com/rbhatia46",
-        //   "className":"fa fa-twitter"
-        // }
+        {
+          "name":"resume",
+          "url":"https://drive.google.com/file/d/1UEyKV6Ypt30G2FtfPX8o7HqSRdeaxRq2/view?usp=sharing",
+          "className":"fa fa-download"
+        }
       ],
     "aboutme":" I am a recent graduate looking to launch my career in web development. I am eager to learn more programing langues and frameworks and start working on real life projects. When I am not at my computer reading documentation I can be found playing video games, reading, or painting.",
     "address":"Redding California",
@@ -98,24 +98,28 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Poke Pound",
+        "description":"Poke Pound is an app  created so that Pokemon users can adopt, rehome, or release theri Pokemon. The user is able to make an account and add the pokemon they wish to rehome to it. In their dashboard they can view the Pokemon they have up for adoption, their adoption history, and the pokemon they currently possess.",
+        "imgurl":"images/portfolio/pokepound.png",
+        "url": "https://pokemonstore1.herokuapp.com/",
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Employee Tracker",
+        "description":"This app is run in the terminal exclusively, and can be used to keep track of the employees at a company. You can view, create or delete employees, departments, and salaries with it.",
+        "imgurl":"images/portfolio/employee.png",
+        "url": "https://github.com/heparish/Employee-Tracker",
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"E-Commerce App",
+        "description":"This app demonstrates how the back end of an e-commerce app functions. With his app, users can create their databases and inventory for their business. The app is able to sort items by category, product, and tag.",  
+        "imgurl":"images/portfolio/bankapp.png",
+        "url": "https://github.com/heparish/bank-app",
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Fitness Tracker",
+        "description":"This fitness app is able to keep track of users' workouts and display them in graph format. Users can add theri different workouts and all of their various components i.e. type, reps, etc. They can view their workout trends over the past week to compare their progress.",
+        "imgurl":"images/portfolio/fitness.png",
+        "url": "https://github.com/heparish/Fitness-Tracker",
       }
     ],
     // "testimonials":[
