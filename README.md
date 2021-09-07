@@ -1,9 +1,9 @@
 # Portfolio Website
 
-My name is Haley and welcome to my react based portfolio website. Please view the deployed version here.
+My name is Haley and welcome to my react based portfolio website. Please view the deployed version [here]( https://heparish.github.io/react-portfolio/).
 
 ## Preview
-![Preview](../Screenshot_1.png)
+![Preview](/public/images/Screenshot_1.png)
 
 ## Credits
 
