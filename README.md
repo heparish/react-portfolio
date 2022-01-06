@@ -1,6 +1,6 @@
 # Portfolio Website
 
-My name is Haley and welcome to my react based portfolio website. This website uses react, and gatsbyjs. Please view the deployed version [here]( https://heparish.github.io/react-portfolio/).
+### My name is Haley and welcome to my react based portfolio website. This website uses React, and Gatsbyjs. Please view the deployed version [here]( https://heparish.github.io/react-portfolio/).
 
 ## Preview
 ![Preview](/public/images/Screenshot_1.png)
