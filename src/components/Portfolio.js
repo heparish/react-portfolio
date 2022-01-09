@@ -19,7 +19,8 @@ export default class Porfolio extends Component {
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
-                                <a href={item.url}>View the deployed app or repo here</a>
+                                <a href={item.urlS}>Application | </a>
+                                <a href={item.url}>Repo </a>
                         </div>
                       </div>
                     {/* </a> */}
